@@ -118,8 +118,3 @@ python itunesMetData.py
 <br>
 ---
 
-## 📚 License
-
-MIT License
-
----
