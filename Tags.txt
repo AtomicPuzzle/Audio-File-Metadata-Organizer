@@ -1,0 +1,8 @@
+GitHub project tags:
+python
+mp3
+metadata
+itunes
+music-library
+tagging
+audio-tools
