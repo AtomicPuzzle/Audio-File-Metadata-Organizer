@@ -4,14 +4,14 @@ This repository contains two Python scripts for editing and organizing metadata 
 
 These tools help ensure your music library (e.g., in iTunes) displays album and track information correctly.
 
-
+<br>
 ---
 
 ## 🧰 Requirements
 
 This script requires the `mutagen` Python library.
 
-
+<br>
 ---
 
 ## 📁 Contents
@@ -27,7 +27,7 @@ Updates a set of `.mp3` files with consistent album-level metadata, including:
 - Disc number
 - Grouping/Disc subtitle
 
-
+<br>
 ---
 
 ## 🚀 How to Use
@@ -41,7 +41,7 @@ Updates a set of `.mp3` files with consistent album-level metadata, including:
 pip install mutagen
 ```
 
-
+<br>
 ---
 
 ### 📝 Script 1 — `music.py`
@@ -66,7 +66,7 @@ python music.py
 
 - Albums where files are named (e.g., `01 - The Forest.mp3`) but have no embedded `title` tag.
 
-
+<br>
 ---
 
 ### 🛠️ Script 2 — `itunesMetData.py`
@@ -106,7 +106,7 @@ python itunesMetData.py
 - Splitting large soundtracks into multiple labelled discs.
 - Ensuring consistent display in iTunes or other music software.
 
-
+<br>
 ---
 
 ## 🧠 Notes
@@ -115,7 +115,7 @@ python itunesMetData.py
 - Windows Explorer shows `discnumber` under the **"Part of Set"** column, not a column labelled "Disc."
 - Use consistent metadata across all discs in a set to ensure correct sorting in music libraries.
 
-
+<br>
 ---
 
 ## 📚 License
