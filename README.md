@@ -1,6 +1,6 @@
 # 🎵 Audio Metadata Tools for Game Music Albums
 
-This repository contains two Python scripts for editing and organizing metadata in `.mp3` files. They were designed with video game soundtracks in mind—especially those split into multiple discs or lacking complete metadata.
+This repository contains a set of Python scripts for editing and organizing metadata in `.mp3` files. They were designed with video game soundtracks in mind—especially those split into multiple discs or lacking complete metadata.
 
 These tools help ensure your music library (e.g., in iTunes) displays album and track information correctly.
 
